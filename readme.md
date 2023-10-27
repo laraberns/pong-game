@@ -1,4 +1,4 @@
-# Pong Game Project
+# Pong Game for Desktops
 
 ## Overview
 
